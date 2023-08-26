@@ -227,6 +227,7 @@ height: 100vh;
     font-size: 20px;
     text-transform: uppercase;
     box-shadow: 0 1.75rem 3.5rem rgba(0, 0, 0, 0.1);
+    transition: none;
 
 }
 .btn--new
@@ -236,6 +237,7 @@ height: 100vh;
     padding-top: 5%;
     width: 40%;
     height: 8vh;
+    transition: none;
 }
 .btn--roll
 {
@@ -244,6 +246,7 @@ height: 100vh;
     padding-top: 1.5%;
     width: 30%;
     height: 8vh;
+    transition: none;
 }
 .btn--hold
 {
@@ -252,6 +255,7 @@ height: 100vh;
    padding-top: 5%;
    width: 50%;
    height: 8vh;
+    transition: none;
 }
 .player--1 .current
 {
