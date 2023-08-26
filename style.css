@@ -126,7 +126,7 @@ width: 10%;
     font-size: 23px;
     text-transform: uppercase;
     box-shadow: 0 1.75rem 3.5rem rgba(0, 0, 0, 0.1);
-    transition: all 0.2s;
+  
 }
 .btn--new
 {
@@ -147,10 +147,7 @@ left: 41%;
     top: 80%;
     left: 41%;
 }
-/* .btn:active {
-    transform: translate(3px,-1%);
-    box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.15);
-  } */
+
   .btn:focus {
     outline: none;
   }
@@ -191,9 +188,7 @@ width: 50%;
 height: 100vh;
 }
 
-.btn:active{
-    transform: none;
-}
+
 .player--0 .score
 {
     color: #c7365f;
@@ -227,7 +222,7 @@ height: 100vh;
     font-size: 20px;
     text-transform: uppercase;
     box-shadow: 0 1.75rem 3.5rem rgba(0, 0, 0, 0.1);
-    transition:all 0.2s;
+
 }
 .btn--new
 {
