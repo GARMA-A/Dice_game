@@ -147,10 +147,10 @@ left: 41%;
     top: 80%;
     left: 41%;
 }
-.btn:active {
+/* .btn:active {
     transform: translate(3px,-1%);
     box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.15);
-  }
+  } */
   .btn:focus {
     outline: none;
   }
